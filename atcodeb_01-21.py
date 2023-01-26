@@ -1,0 +1,5 @@
+n = int(input())
+s = input()
+fi = ('na')
+re = ('nya')
+print(s.replace(fi, re))
